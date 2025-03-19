@@ -1,1 +1,2 @@
-# Dex Final Repo (Moralis Blueprint)
+Backend is in node.js
+Frontend is in React
